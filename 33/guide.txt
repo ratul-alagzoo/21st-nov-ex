@@ -1,0 +1,4 @@
+1) cd docs
+2) uv run sphinx-quickstart
+3) Edit conf.py
+4) uv run sphinx-build -b html source build/html
