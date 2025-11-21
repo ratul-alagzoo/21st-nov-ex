@@ -19,3 +19,4 @@ python -m line_profiler sorts_with_profiler.py.lprof
 //memory profile
 for each and every function 
  uv run memray run -o <func_name>.bin profile_memray.py 
+

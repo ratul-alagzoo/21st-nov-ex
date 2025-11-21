@@ -6,4 +6,7 @@ def run():
     # test_sorted(insertionsort)
 
 if __name__ == "__main__":
+
+    # run time winner: quicksort_inplace()
+    # memory winner: insertionsort()
     run()
